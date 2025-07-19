@@ -7,3 +7,5 @@ Each project is a separate app focused on practicing frontend skills and buildin
 
 ## Projects
 - ** PROJECT 01: Mortgage-Repayment-Calculator
+
+- ** PROJECT 02: To-Do List
