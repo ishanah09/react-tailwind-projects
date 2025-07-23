@@ -9,3 +9,5 @@ Each project is a separate app focused on practicing frontend skills and buildin
 - ** PROJECT 01: Mortgage-Repayment-Calculator
 
 - ** PROJECT 02: To-Do App
+
+- ** PROJECT 03: Weather App
