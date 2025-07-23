@@ -8,7 +8,7 @@ Search for any city to view the current weather, 3-hour forecast, and a 5-day fo
 
 ## Live Demo
 
-[View Live Application](#)  
+[View Live Application](https://react-tailwind-projects-lhaz.vercel.app/)  
 
 
 ---
