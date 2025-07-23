@@ -22,7 +22,7 @@ export default function Weather() {
       className={`${
         state.theme === "dark"
           ? "bg-black"
-          : " bg-[url('src/assets/background.jpg')]"
+          : " bg-[url('/background.jpg')]"
       } min-h-screen bg-center bg-cover flex items-center justify-center sm:p-8 sm:py-10`}
     >
       <main
