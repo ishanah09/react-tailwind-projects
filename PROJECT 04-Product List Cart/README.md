@@ -15,7 +15,7 @@ Users can browse a list of desserts, add them to a cart, adjust quantities, and 
 
 ## 🔗 Links
 
-- [Live Demo]() 
+- [Live Demo](https://react-tailwind-projects-njh2.vercel.app/) 
 - [Frontend Mentor-Inspired Challenge](https://www.frontendmentor.io/challenges/product-list-with-cart-5MmqLVAp_d)
 
 ---
