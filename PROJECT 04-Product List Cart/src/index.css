@@ -1,0 +1,15 @@
+@import url("https://fonts.googleapis.com/css2?family=Red+Hat+Text:ital,wght@0,300..700;1,300..700&display=swap");
+
+@import "tailwindcss";
+
+@theme {
+  --breakpoint-sm: 450px;
+  --breakpoint-md: 750px;
+}
+
+@layer base {
+  body {
+    font-family: "Red Hat Text", sans-serif;
+    background-color: hsl(13, 31%, 94%);
+  }
+}

@@ -11,3 +11,5 @@ Each project is a separate app focused on practicing frontend skills and buildin
 - ** PROJECT 02: To-Do App
 
 - ** PROJECT 03: Weather App
+
+- ** PROJECT 04: Product List Cart
