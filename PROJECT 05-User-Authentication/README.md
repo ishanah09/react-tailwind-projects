@@ -8,7 +8,7 @@ Includes all core authentication features like sign up, sign in, forgot password
 
 ## Live Demo
 
-[View Live Application]()
+[View Live Application](https://react-tailwind-projects-65cw.vercel.app/)
 
 ---
 
@@ -40,8 +40,8 @@ Includes all core authentication features like sign up, sign in, forgot password
 
 ## Screenshot
 
-![User Authentication Screenshot](./screenshot/Screenshot%202025-07-27%20233200.png)
-![User Authentication Screenshot](./screenshot/Screenshot%202025-07-27%20233223.png)
-![User Authentication Screenshot](./screenshot/Screenshot%202025-07-27%20233243.png)
+![User Authentication Screenshot](./screenshot/Screenshot%202025-07-27%20234204.png)
+![User Authentication Screenshot](./screenshot/Screenshot%202025-07-27%20234238.png)
+![User Authentication Screenshot](./screenshot/Screenshot%202025-07-27%20234257.png)
 
 ---
