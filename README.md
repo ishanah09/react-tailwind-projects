@@ -13,3 +13,6 @@ Each project is a separate app focused on practicing frontend skills and buildin
 - ** PROJECT 03: Weather App
 
 - ** PROJECT 04: Product List Cart
+
+- ** PROJECT 05: User Authentication
+
