@@ -16,3 +16,5 @@ Each project is a separate app focused on practicing frontend skills and buildin
 
 - ** PROJECT 05: User Authentication
 
+- ** PROJECT 06: EXPENSE TRACKER App
+
