@@ -8,7 +8,7 @@ The application allows users to record expenses with descriptions, categories, a
 
 ## 🚀 Live Demo
 
-👉 [View Live Application]()  
+👉 [View Live Application](https://react-tailwind-projects-mg32.vercel.app/)  
 
 
 ---
