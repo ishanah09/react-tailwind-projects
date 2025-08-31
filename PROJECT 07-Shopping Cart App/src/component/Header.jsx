@@ -1,5 +1,4 @@
 import { FaShoppingCart } from "react-icons/fa";
-import { FaHeart } from "react-icons/fa6";
 import { useSelector } from "react-redux";
 import { Link } from "react-router";
 export default function Header() {

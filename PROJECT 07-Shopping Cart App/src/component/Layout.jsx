@@ -2,7 +2,7 @@ import { Route, Routes } from "react-router";
 import Home from "../pages/Home";
 import Wishlist from "../pages/Wishlist";
 import Cart from "../pages/Cart";
-import ProductDescription from "../pages/productDescription";
+import ProductDescription from "../pages/ProductDescription";
 export default function Layout() {
   return (
     <main className="grow ">
