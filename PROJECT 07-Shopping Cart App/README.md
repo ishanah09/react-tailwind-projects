@@ -7,7 +7,7 @@ The app demonstrates state management with Redux, product fetching from an API, 
 
 ## Live Demo
 
-[View Live Application]()  
+[View Live Application](https://react-tailwind-projects-7puv.vercel.app/)  
 
 ---
 
