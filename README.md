@@ -18,3 +18,5 @@ Each project is a separate app focused on practicing frontend skills and buildin
 
 - ** PROJECT 06: EXPENSE TRACKER App
 
+- ** PROJECT 07: Shopping Cart App
+
